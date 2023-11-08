@@ -7,6 +7,7 @@ first you should install:
   * Elasticsearch 8.10.4 (https://www.elastic.co/fr/downloads/past-releases/elasticsearch-8-10-4)
   * Logstash 8.10.4 (https://www.elastic.co/fr/downloads/past-releases/logstash-8-10-4)
   * this is the link of the csv file of my flicker dataset
+  * download all the dependencies in the file "requirement.txt"
 # How to run the project
 * Clone the repository
 * firstly you should load the tags of your flicker dataset into the elasticsearch index using Logstash and the file "phtotos_flickr_conf_73.conf"
